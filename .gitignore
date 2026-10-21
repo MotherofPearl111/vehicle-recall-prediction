@@ -1,0 +1,7 @@
+# Data is large and re-downloadable with scripts/01_download_data.py
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log

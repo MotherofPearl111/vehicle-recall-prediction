@@ -1,0 +1,5 @@
+model,roc_auc,pr_auc,accuracy,precision_top10pct
+Logistic regression (structured),0.7705,0.1995,0.9215,0.2513
+Logistic regression (structured + text),0.7705,0.194,0.9182,0.2322
+Random forest (structured),0.7613,0.1773,0.9227,0.2086
+Gradient boosting (structured),0.7341,0.1835,0.92,0.2248

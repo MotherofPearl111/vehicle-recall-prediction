@@ -1,0 +1,5 @@
+model,roc_auc_mean,roc_auc_std,pr_auc_mean,pr_auc_std,accuracy_mean,accuracy_std,precision_top10pct_mean,precision_top10pct_std
+Gradient boosting (structured),0.713,0.0591,0.1623,0.1113,0.938,0.013,0.1636,0.1135
+Logistic regression (structured + text),0.7251,0.0578,0.1433,0.0811,0.9402,0.0189,0.1609,0.08
+Logistic regression (structured),0.7127,0.0638,0.1379,0.0846,0.9422,0.0175,0.1501,0.0852
+Random forest (structured),0.754,0.0575,0.1658,0.1149,0.942,0.016,0.1654,0.0999

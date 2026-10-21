@@ -1,0 +1,107 @@
+feature,odds_ratio
+cat__comp_group_WHEELS,0.132
+cat__make_SAAB,0.134
+cat__make_CADILLAC,0.199
+cat__comp_group_VEHICLE SPEED CONTROL,0.265
+cat__comp_group_TIRES,0.285
+cat__make_SATURN,0.346
+cat__comp_group_ELECTRONIC STABILITY CONTROL (ESC),0.422
+cat__comp_group_LANE DEPARTURE,0.498
+cat__make_SUZUKI,0.521
+cat__cmpl_type_SVOQ,0.543
+num__vehicle_age,0.553
+cat__fuel_type_NA,0.574
+cat__fuel_type_GS,0.576
+cat__cmpl_type_CON,0.579
+cat__fuel_type_DS,0.587
+cat__make_MINI,0.594
+cat__make_FOREST RIVER,0.596
+cat__fuel_type_HE,0.609
+cat__make_TOYOTA,0.615
+cat__cmpl_type_IVOQ,0.62
+cat__comp_group_STEERING,0.64
+cat__make_VOLVO,0.649
+cat__make_HUMMER,0.663
+cat__comp_group_TRACTION CONTROL SYSTEM,0.677
+cat__make_CHEVROLET,0.686
+cat__comp_group_infrequent_sklearn,0.694
+cat__cmpl_type_EVOQ,0.699
+cat__comp_group_VISIBILITY,0.705
+cat__make_VOLKSWAGEN,0.711
+cat__fuel_type_BF,0.714
+bin__police_report,0.719
+cat__cmpl_type_LETR,0.731
+cat__make_NISSAN,0.745
+cat__make_YAMAHA,0.767
+cat__comp_group_PARKING BRAKE,0.769
+cat__make_LINCOLN,0.774
+cat__comp_group_SEATS,0.775
+cat__comp_group_EQUIPMENT ADAPTIVE/MOBILITY,0.778
+cat__make_LEXUS,0.794
+cat__comp_group_STRUCTURE,0.809
+cat__make_CHRYSLER,0.811
+cat__make_ACURA,0.813
+cat__make_OLDSMOBILE,0.813
+cat__make_FORD,0.845
+cat__cmpl_type_MIVQ,0.861
+cat__make_JEEP,0.87
+cat__comp_group_INTERIOR LIGHTING,0.875
+cat__make_PONTIAC,0.876
+cat__make_KEYSTONE,0.887
+counts__prior_vehicle_cmpl_90d,0.888
+cat__make_SMART,0.889
+cat__make_LAND ROVER,0.898
+cat__make_GMC,0.907
+cat__make_HYUNDAI,0.917
+cat__comp_group_ELECTRICAL SYSTEM,0.923
+cat__make_SUBARU,0.932
+cat__cmpl_type_infrequent_sklearn,0.934
+cat__make_SCION,0.935
+cat__make_INFINITI,0.951
+cat__fuel_type_infrequent_sklearn,0.951
+counts__injured,0.957
+bin__towed,0.964
+cat__comp_group_ENGINE,0.967
+bin__crash,0.97
+cat__make_CAN-AM,0.97
+cat__make_ISUZU,0.985
+counts__prior_cmpl_365d,1.0
+cat__make_MITSUBISHI,1.003
+cat__comp_group_EXTERIOR LIGHTING,1.004
+counts__deaths,1.006
+cat__comp_group_SUSPENSION,1.019
+cat__make_MERCURY,1.021
+counts__miles,1.023
+cat__comp_group_SEAT BELTS,1.024
+cat__make_infrequent_sklearn,1.035
+cat__make_DUCATI,1.043
+cat__make_FIAT,1.066
+counts__speed,1.07
+bin__medical_attn,1.07
+cat__make_DODGE,1.1
+cat__make_WINNEBAGO,1.122
+cat__make_MERCEDES-BENZ,1.134
+cat__make_BMW,1.177
+cat__make_MERCEDES BENZ,1.179
+cat__make_BUICK,1.209
+cat__make_JAGUAR,1.244
+cat__comp_group_FORWARD COLLISION AVOIDANCE,1.41
+cat__make_THOR MOTOR COACH,1.475
+cat__comp_group_FUEL/PROPULSION SYSTEM,1.565
+cat__comp_group_POWER TRAIN,1.594
+bin__fire,1.618
+cat__make_FREIGHTLINER,1.634
+counts__prior_cmpl_90d,1.667
+cat__make_HARLEY-DAVIDSON,1.705
+cat__make_KIA,1.74
+cat__comp_group_SERVICE BRAKES,1.999
+cat__make_AUDI,2.071
+cat__make_MAZDA,2.097
+bin__prior_recall_2y,2.109
+cat__make_HONDA,2.144
+cat__make_PORSCHE,2.623
+cat__make_RAM,2.85
+cat__comp_group_BACK OVER PREVENTION,3.056
+cat__comp_group_LATCHES/LOCKS/LINKAGES,3.42
+cat__make_TESLA,3.786
+cat__comp_group_AIR BAGS,8.029
